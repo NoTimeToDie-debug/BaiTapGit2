@@ -16,3 +16,4 @@ function DoneF2() {
 }
 console.log('f2_done');
 console.log('cả 2 + f_done');
+Console.log('done All');
